@@ -1,0 +1,121 @@
+INDUSTRIAL CYBERSECURITY PROJECT
+EDUCATIONAL & RESEARCH LICENSE
+
+Copyright (c) 2026 SecBuddy
+
+Project Title:
+Design and Implementation of a Secure Threat Intelligence Sharing Platform
+
+Permission is hereby granted to any person to:
+
+1. Study this project and its documentation for educational,
+   academic, research, training, and learning purposes.
+
+2. Copy, reproduce, modify, and rebuild this project or any part
+   of its documented implementation for learning and research.
+
+3. Use the concepts, architecture, configurations, methodology,
+   and implementation approach demonstrated in this repository
+   as a reference for developing their own cybersecurity projects.
+
+4. Include their use, implementation, or reconstruction of this
+   project as a learning project, academic project, portfolio
+   project, internship project, or resume/CV project.
+
+5. Modify and extend the project for their own educational,
+   research, laboratory, or demonstration purposes.
+
+6. Share copies or modified versions of this project for
+   non-commercial educational and research purposes.
+
+ATTRIBUTION
+
+When this project or substantial portions of its documentation,
+architecture, methodology, or implementation are used or
+reproduced, users are encouraged to provide attribution to the
+original project:
+
+"Design and Implementation of a Secure Threat Intelligence
+Sharing Platform — SecBuddy"
+
+A reference to the original GitHub repository is also encouraged.
+
+INDUSTRIAL PROJECT STATEMENT
+
+This repository represents an industrial-style cybersecurity
+project demonstrating how organizations can design and deploy a
+secure Threat Intelligence Sharing Platform using multiple
+cybersecurity technologies.
+
+The project is intended to demonstrate practical cybersecurity
+architecture, threat intelligence sharing, security controls,
+automation, scalability, and interoperability concepts.
+
+The author considers this project an industrial project created
+for learning, demonstration, research, and portfolio purposes.
+
+THIRD-PARTY TECHNOLOGIES
+
+This repository may demonstrate or reference third-party
+technologies, frameworks, platforms, libraries, tools, threat
+feeds, standards, and services.
+
+Examples include MISP, Docker, Redis, STIX, TAXII, Kali Linux,
+CIRCL, DigitalSide, and other technologies referenced in the
+project documentation.
+
+This license does NOT grant ownership of, or change the licenses
+applicable to, any third-party software, trademarks, services,
+data, feeds, or intellectual property.
+
+Users are responsible for complying with the respective licenses,
+terms of use, and policies of third-party technologies and data
+sources.
+
+SECURITY AND RESPONSIBLE USE
+
+This project is provided for educational, research, defensive
+security, and authorized testing purposes.
+
+Users must only deploy, test, modify, or operate the project in
+systems and environments for which they have appropriate
+authorization.
+
+The author is not responsible for misuse of this project,
+unauthorized access, security incidents, data loss, service
+disruption, or damage resulting from the use or modification of
+this project.
+
+NO WARRANTY
+
+THIS PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+NON-INFRINGEMENT.
+
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF, OR INABILITY TO USE, THIS
+PROJECT.
+
+COMMERCIAL USE
+
+This license primarily permits educational, academic, research,
+portfolio, and non-commercial use.
+
+Commercial use, commercial redistribution, or incorporation of
+substantial portions of this project into a commercial product
+is not granted under this license without permission from the
+copyright holder.
+
+FINAL NOTE
+
+You are free to learn from this project, copy it, rebuild it,
+modify it, extend it, and create your own implementation based
+on the concepts demonstrated here.
+
+The purpose of this project is to encourage practical
+cybersecurity learning and demonstrate how multiple security
+technologies can work together to address real-world
+organizational security challenges.
+
+Copyright (c) 2026 SecBuddy
